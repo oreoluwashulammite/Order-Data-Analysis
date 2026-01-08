@@ -2,18 +2,18 @@
 This project analyzes order data to understand sales performance, product behavior, and business trends. Using Microsoft Excel, pivot tables, and dashboards, the analysis provides insights that support better decision-making in sales, inventory management, and business strategy.
 
 ### Table of Contents
-- Project Overview
-- Project Scope
-- Project Objectives
-- Expected Outcome
-- Document Purpose
-- Use Case
-- Data Source
-- Data Cleaning and Processing
-- Data Analysis and Insights
-- Data Visualization
-- Recommendations
-- Conclusion
+- [Project Overview](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#project-overview)
+- [Project Scope](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#project-scope)
+- [Project Objectives](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#project-objectives)
+- [Expected Outcome](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#expected-outcome)
+- [Document Purpose](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#document-purpose)
+- [Use Case](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#use-case)
+- [Data Source](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#data-source)
+- [Data Cleaning and Processing](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#data-cleaning-and-processing)
+- [Data Analysis and Insights](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#data-analysis-and-insights)
+- [Data Visualization](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#data-visualization)
+- [Recommendations](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#recommendations)
+- [Conclusion](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/edit/main/README.md#conclusion)
   
 ---
 
@@ -70,10 +70,10 @@ Strategy & Planning Teams
 -	Use trends to guide pricing and promotional decisions
   
 ### Data Source
-The dataset used for this project was downloaded from **Kaggle**, a publicly available data platform commonly used for data analysis practice and learning.  
-The dataset contains order-level transactional data and was used strictly for educational and portfolio purposes.
 
----
+The dataset used for this project is a publicly available order dataset obtained from an online data repository for learning and practice purposes. The dataset contains order-level transactional data, including product details, quantities, revenue, and profit metrics.
+The dataset was used strictly for educational and portfolio purposes, with the focus on demonstrating data analysis, visualization, and insight generation using Microsoft Excel.
+
 
 ## Data Cleaning and Processing
 
@@ -144,7 +144,7 @@ The following dashboards were created to communicate insights effectively:
 
 -	Product Category Dashboard: Performance comparison by revenue, profit, and quantity
 
-![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Sales%20Performance%20dashboard.png)
+![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Product%20performance%20dashboard.png)
 
 -	Sales Trend Dashboard: Revenue and profit trends over time
 
@@ -166,6 +166,8 @@ The following dashboards were created to communicate insights effectively:
 ---
 
 ## Recommendations
+Based on the analysis:
+
 - Focus inventory and marketing on high-performing products
 - Review pricing or promotion strategies for low-performing products
 - Align staffing and inventory planning with peak sales periods
