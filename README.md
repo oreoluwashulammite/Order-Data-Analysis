@@ -148,11 +148,11 @@ The following dashboards were created to communicate insights effectively:
 
 -	Sales Trend Dashboard: Revenue and profit trends over time
 
-![]()
+![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Sales%20trend%20dashboard.png)
 
 -	Product Analysis Dashboard: Top 5 and bottom 5 products by revenue
 
-![]()
+![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Sales%20Performance%20dashboard.png)
 
 
 ---
