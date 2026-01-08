@@ -144,9 +144,15 @@ The following dashboards were created to communicate insights effectively:
 
 -	Product Category Dashboard: Performance comparison by revenue, profit, and quantity
 
-![]()
+![](https://github.com/oreoluwashulammite/ORDER-DATA-ANALYSIS/blob/main/Sales%20Performance%20dashboard.png)
+
 -	Sales Trend Dashboard: Revenue and profit trends over time
+
+![]()
+
 -	Product Analysis Dashboard: Top 5 and bottom 5 products by revenue
+
+![]()
 
 
 ---
